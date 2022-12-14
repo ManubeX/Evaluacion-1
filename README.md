@@ -2,13 +2,13 @@
 
 El Controlador de gastos es una aplicación la cual permite:
 
-Añadir un gasto
-Añadir un ingreso
-Mostrar un listado de gastos
-Mostrar un listado de ingresos
-Editar un gasto o ingreso
-Eliminar un gasto o ingreso
-Ver el balance
+- Añadir un gasto <br>
+- Añadir un ingreso<br>
+- Mostrar un listado de gastos<br>
+- Mostrar un listado de ingresos<br>
+- Editar un gasto o ingreso<br>
+- Eliminar un gasto o ingreso<br>
+- Ver el balance
 
 # Añadir gastos o ingresos
 
